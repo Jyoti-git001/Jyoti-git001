@@ -11,19 +11,12 @@
 
 - 🔭 I'm an **Azure DevOps Engineer** fresher actively looking for opportunities
 - 🌱 Currently deepening my skills in **Kubernetes, Terraform & Azure Cloud**
-- 🏆 Certified **Microsoft Azure DevOps Engineer Expert (AZ-400)**
 - 💬 Ask me about **Azure Pipelines, Docker, CI/CD, Infrastructure as Code**
-- 📫 Reach me at: **[your-email@gmail.com]**
+- 📫 Reach me at: **[sushreejyotirmayee59@gmail.com]**
 - 📍 Based in **Hyderabad, India**
 - ⚡ Fun fact: I love automating everything so I can focus on what matters!
 
 ---
-
-### 🏅 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--400%20DevOps%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
 
 ---
 
